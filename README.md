@@ -3,10 +3,10 @@ Spotify-like Dynamic Background
 
 # Screenshots
 <p>
-<img src="https://github.com/rajitdeb/DynamicBackground/blob/master/screenshot/demo2.jpg?raw=true" height=640/>
-<img src="https://github.com/rajitdeb/DynamicBackground/blob/master/screenshot/demo3.jpg?raw=true" height=640/>
-<img src="https://github.com/rajitdeb/DynamicBackground/blob/master/screenshot/demo4.jpg?raw=true" height=640/>
-<img src="https://github.com/rajitdeb/DynamicBackground/blob/master/screenshot/demo5.jpg?raw=true" height=640/>
+<img src="/screenshot/demo2.jpg" height="640"/>
+<img src="/screenshot/demo3.jpg" height="640"/>
+<img src="/screenshot/demo4.jpg" height="640"/>
+<img src="/screenshot/demo5.jpg" height="640"/>
 </p>
 
 # Libraries and Tools Used
